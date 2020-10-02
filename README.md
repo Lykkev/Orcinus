@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/Katrixerse/Orcinus)](https://repl.it/github/Katrixerse/Orcinus)
+
 Attention: Ive stopped working on this bot entirely and will now be archived please use: https://github.com/Katrixerse/Corius my newer bot instead.
 
 # Orcinus
